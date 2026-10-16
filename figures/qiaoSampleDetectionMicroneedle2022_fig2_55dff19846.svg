@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg1"
+   width="7.9333334"
+   height="9.0133333"
+   viewBox="0 0 7.9333334 9.0133333"
+   sodipodi:docname="ac1c04401_0010.eps"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1">
+    <inkscape:page
+       x="0"
+       y="0"
+       inkscape:label="1"
+       id="page1"
+       width="7.9333334"
+       height="9.0133333"
+       margin="0"
+       bleed="0" />
+  </sodipodi:namedview>
+  <g
+     id="g1"
+     inkscape:groupmode="layer"
+     inkscape:label="1">
+    <g
+       id="group-R5">
+      <path
+         id="path2"
+         d="m 57.9336,60.9883 c -2.0039,4.3867 -5.8203,6.5742 -11.4766,6.5742 -5.9961,0 -8.9922,-1.6016 -8.9922,-4.8164 0,-1.0742 0.379,-2.0195 1.1407,-2.832 0.7617,-0.8086 1.6797,-1.2188 2.7656,-1.2188 1.5508,0 3.2109,0.7695 4.9687,2.3125 1.7579,1.543 3.1172,2.3164 4.0743,2.3164 3.2304,0 4.8515,-4.0937 4.8515,-12.2851 0,-14.4453 -0.6718,-24.4141 -2.0508,-29.9532 C 50.4609,9.75781 44.4844,4.09375 35.2656,4.09375 c -6.2773,0 -10.8008,2.08203 -13.5547,6.24215 -2.1289,3.2032 -3.1914,8.6016 -3.1914,16.1797 v 28.1446 c 0,3.6132 0.3907,5.9961 1.1914,7.1406 1.1407,1.6797 3.0352,2.5195 5.711,2.5195 h 2.4726 v 1.7578 H 0.00390625 V 64.3203 H 2.42578 c 2.95703,0 4.91016,-0.918 5.90625,-2.7656 0.69531,-1.2969 1.03516,-3.5938 1.03516,-6.8945 V 29.4258 C 9.36719,21.625 9.875,16.3203 10.9023,13.5273 14.2031,4.50391 22.1328,0.00390625 34.6992,0.00390625 c 10.7617,0 17.9688,5.80078375 21.6211,17.37109375 2.1485,6.8672 3.2344,17.9688 3.2344,33.332 0,4.5 -0.5469,7.9297 -1.6211,10.2813"
+         style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(0.13333333,0,0,-0.13333333,0,9.0133333)" />
+    </g>
+  </g>
+</svg>
